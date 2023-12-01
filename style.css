@@ -229,7 +229,7 @@ drawer
   right: 21px;
   width: 8px;
   height: 11px;
-  background: url(../img/arrow-b@2x.png) no-repeat center center/contain;
+  background: url("https://nueno13.github.io/advertising-agency-web/img/arrow-b@2x.png") no-repeat center center/contain;
 }
 .drawer__content-item a {
   display: inline-block;
@@ -256,7 +256,7 @@ drawer
 top
 /////////*/
 .top {
-  background: url(../img/mainvisual.png) no-repeat center center/cover;
+  background: url("https://nueno13.github.io/advertising-agency-web/img/mainvisual.png") no-repeat center center/cover;
   padding: 168px 0;
   margin-top: 100px;
   height: 600px;
@@ -347,7 +347,7 @@ top
   height: 40px;
   -webkit-transform: translateY(50%);
           transform: translateY(50%);
-  background: transparent url(../img/arrow-prev@2x.png) no-repeat center center/contain;
+  background: transparent url("https://nueno13.github.io/advertising-agency-web/img/arrow-prev@2x.png") no-repeat center center/contain;
   left: calc(50% - 600px);
 }
 .swiper-button-prev::after {
@@ -373,7 +373,7 @@ top
   height: 40px;
   -webkit-transform: translateY(50%);
           transform: translateY(50%);
-  background: transparent url(../img/arrow-next@2x.png) no-repeat center center/contain;
+  background: transparent url("https://nueno13.github.io/advertising-agency-web/img/arrow-next@2x.png") no-repeat center center/contain;
   right: calc(50% - 600px);
 }
 .swiper-button-next::after {
